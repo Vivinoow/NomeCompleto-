@@ -1,0 +1,15 @@
+C:\Users\Lab0-00\documents\NomeCompleto-\bin\Debug\net6.0\NomeCompleto-.exe
+C:\Users\Lab0-00\documents\NomeCompleto-\bin\Debug\net6.0\NomeCompleto-.deps.json
+C:\Users\Lab0-00\documents\NomeCompleto-\bin\Debug\net6.0\NomeCompleto-.runtimeconfig.json
+C:\Users\Lab0-00\documents\NomeCompleto-\bin\Debug\net6.0\NomeCompleto-.dll
+C:\Users\Lab0-00\documents\NomeCompleto-\bin\Debug\net6.0\ref\NomeCompleto-.dll
+C:\Users\Lab0-00\documents\NomeCompleto-\bin\Debug\net6.0\NomeCompleto-.pdb
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\NomeCompleto-.csproj.AssemblyReference.cache
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\NomeCompleto-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\NomeCompleto-.AssemblyInfoInputs.cache
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\NomeCompleto-.AssemblyInfo.cs
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\NomeCompleto-.csproj.CoreCompileInputs.cache
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\NomeCompleto-.dll
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\ref\NomeCompleto-.dll
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\NomeCompleto-.pdb
+C:\Users\Lab0-00\documents\NomeCompleto-\obj\Debug\net6.0\NomeCompleto-.genruntimeconfig.cache
